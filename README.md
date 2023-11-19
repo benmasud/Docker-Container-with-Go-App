@@ -9,6 +9,7 @@ clone the repo and run it using this command
 ```
 docker build . -t go-containerized-api:latest   
 ```
+### Then run it
 ```
 docker run -e PORT=9000 -p 9000:9000 go-containerized-api:latest
 ```
