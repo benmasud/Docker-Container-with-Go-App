@@ -1,5 +1,4 @@
 # Docker-Container-with-Go-App
-simple go api with docker
 ![image](https://github.com/benmasud/Docker-Container-with-Go-App/assets/69720999/e7e30c51-6664-47f5-913b-c6391386a764)
 
 ## How to start 
